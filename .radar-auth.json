@@ -1,0 +1,21 @@
+{
+  "username": "admin",
+  "passwordSalt": "b6LtBNfZqLFOUrrenr3Ddg==",
+  "passwordHash": "cPQihwPQUS2eFGT/pezY8XY3h/A8cXPokNYaW9avwLe9L7JsSIfybZs6lJ5Ddec+RNxha0fN+In5y+3PFyaRPQ==",
+  "totpSecret": {
+    "iv": "zipToCWDuyNFqJY8",
+    "ciphertext": "h/pFqFOmDBbGJwLGGWqXr2eBV1kuxyVPNXpPdtaqmKc=",
+    "tag": "dFTfVGHKa/8Bn9r3HM5IcQ=="
+  },
+  "recoveryHashes": [
+    "5d507fe2fe658d98db64fcea66d92d17c3e31cda8698d39afd66af5fbd4b4ee3",
+    "d2ebca331a2d6e9a82f2b127169e80d9d2656bc7d17c84752f53ee27a363674a",
+    "16ae20bbcef8af91b2b92ad125b21f289b8d55c0ca283ffc6cacb0d8d5261eee",
+    "0e94114f84227b15ddadba68886b37b4d3e21d45610a70b1b8776920a2a3cb1e",
+    "589e65e588fc553a7e36b85b2d1a38a8bfd04f6e3df7cff0d4285806795cea51",
+    "d527081f134a353b481e63ffa387dfb3ec7d2c4f04c7a0f4b0a282748849edda",
+    "32694addb8e85695c5aa015cf44ea2251c993030eb0f152a1306677534f1597a",
+    "e916daafc644d013083cc6a93c0cd259edf798da65c0d201787c51c6ff5ff178"
+  ],
+  "lastTotpCounter": "59761857"
+}
